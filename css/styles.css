@@ -65,13 +65,14 @@ aside {
     height: 24.8em;
     padding: 1em;
     margin: 0.5em 1em;
-    background-color: #003e41;
+    background-color: #003d55;
     color: #ffffff;
 }
 
 aside h3 {
     font-size: 2em;
     margin-bottom: 0.7em;
+    text-transform: uppercase;
 }
 
 footer {
