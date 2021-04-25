@@ -1,4 +1,8 @@
-### Hi there 👋
+### My first page 👋
+
+- 🌱 I’m currently learning Git
+
+>This is a ***test***
 
 <!--
 **Cristian-Idarraga/Cristian-Idarraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
